@@ -84,6 +84,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [games](#games)
 - [git](#git)
 - [github](#github)
@@ -470,7 +471,7 @@
 - [Graphite-Docs/graphite](https://github.com/Graphite-Docs/graphite) - Encrypted, secure, user-owned productivity suite
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [FileNation/FileNation](https://github.com/FileNation/FileNation) - The simplest way to send your files around the world using IPFS. ✏️ 🗃
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 
 ## bootstrap 
 
@@ -1112,7 +1113,7 @@
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [Cyclenerd/ethereum_nvidia_miner](https://github.com/Cyclenerd/ethereum_nvidia_miner) - 💰 USB flash drive ISO image for Ethereum, Zcash and Monero mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)
 - [geek-at/phptrader](https://github.com/geek-at/phptrader) - A simple php powered Bitcoin and Ethereum trading bot
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 
 ## express 
 
@@ -1243,6 +1244,11 @@
 ## game-engine 
 
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
+- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
+## gamedev 
+
+- [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## games 
@@ -1481,7 +1487,7 @@
 - [kardianos/govendor](https://github.com/kardianos/govendor) - Use Go Modules.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [mustafaakin/gongular](https://github.com/mustafaakin/gongular) - A different approach to Go web frameworks
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [robbiev/two-factor-auth](https://github.com/robbiev/two-factor-auth) - Generate 2FA tokens compatible with Google Authenticator
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1834,7 +1840,6 @@
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [fterh/heimdall](https://github.com/fterh/heimdall) - Self-hosted personal email guardian with one-step deployment
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [frab/frab](https://github.com/frab/frab) - conference management system
