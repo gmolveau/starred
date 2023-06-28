@@ -817,7 +817,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [mustafaakin/gongular](https://github.com/mustafaakin/gongular) - A different approach to Go web frameworks
 - [donutloop/mux](https://github.com/donutloop/mux) - mux is a lightweight HTTP request router
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [gtolle/gorm-revel-heroku-json-sample-app](https://github.com/gtolle/gorm-revel-heroku-json-sample-app) - A sample Go webapp that provides a JSON API using Revel with Gorm, and is deployable on Heroku using Postgres.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [robbiev/two-factor-auth](https://github.com/robbiev/two-factor-auth) - Generate 2FA tokens compatible with Google Authenticator
