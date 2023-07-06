@@ -1420,6 +1420,7 @@
 
 ## Python 
 
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [StackeredSAS/AMAnDe](https://github.com/StackeredSAS/AMAnDe) - Extract, gather and analyze information from an Android Manifest file or an APK.
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
