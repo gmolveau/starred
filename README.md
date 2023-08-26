@@ -8,6 +8,7 @@
 - [ActionScript](#actionscript)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
+- [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -32,6 +33,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -89,6 +91,10 @@
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [nathan-osman/hang](https://github.com/nathan-osman/hang) - Extremely simple Linux application that hangs until a signal is received.
+
+## AutoHotkey 
+
+- [hwayne/autohotkey-scripts](https://github.com/hwayne/autohotkey-scripts) - Some of my AutoHotKey scripts
 
 ## C 
 
@@ -347,6 +353,7 @@
 
 ## Go 
 
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
@@ -470,7 +477,7 @@
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [niemeyer/godeb](https://github.com/niemeyer/godeb) - godeb transforms upstream tarballs for the Go language in deb packages and installs them.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [DloomPlz/openprocesses](https://github.com/DloomPlz/openprocesses) - Golang Program getting process with open sockets
 - [genuinetools/bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -815,7 +822,7 @@
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [Xeoncross/secureserver](https://github.com/Xeoncross/secureserver) - A Simple, Secured Default HTTP(S) Server for Golang
+- [xeoncross/secureserver](https://github.com/xeoncross/secureserver) - A Simple, Secured Default HTTP(S) Server for Golang
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [blue-jay/blueprint](https://github.com/blue-jay/blueprint) - Blueprint for your next web application in Go.
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
@@ -861,7 +868,6 @@
 ## HTML 
 
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
-- [retrohacker/template](https://github.com/retrohacker/template) - A simple framework for webapps
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [ClearTax/html-mocker](https://github.com/ClearTax/html-mocker) - Script to mock dynamic data in HTML for automatic responsiveness testing
@@ -876,7 +882,6 @@
 - [sesh/base.html](https://github.com/sesh/base.html) - A minimal base.html file to get your project started
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [CyberPlanning/webclient](https://github.com/CyberPlanning/webclient) - Web calendar in ELM
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [pseudosavant/player.html](https://github.com/pseudosavant/player.html) - One file drop-in video player web app for using video files served using basic directory listing
@@ -1193,6 +1198,10 @@
 - [normandipalo/faceID_beta](https://github.com/normandipalo/faceID_beta) - An implementation of iPhone X's FaceID using face embeddings and siamese networks on RGBD images.
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 
+## Just 
+
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
+
 ## Kotlin 
 
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
@@ -1219,7 +1228,6 @@
 
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [MartinHeinz/go-project-blueprint](https://github.com/MartinHeinz/go-project-blueprint) - Blueprint/Boilerplate For Golang Projects
 - [MartinHeinz/python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
 - [ianmiell/pm-as-code](https://github.com/ianmiell/pm-as-code) - 
@@ -1311,6 +1319,7 @@
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [photonlines/Intuitive-Guide-to-Maxwells-Equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations) - An intuitive and visual guide to understanding Maxwell's equations.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
@@ -2146,6 +2155,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
+- [retrohacker/template](https://github.com/retrohacker/template) - A simple framework for webapps
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 - [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
