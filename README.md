@@ -140,7 +140,7 @@
 - [eduardsui/tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
 - [RyuKojiro/apple1](https://github.com/RyuKojiro/apple1) - An Apple 1 Emulator that doesn't suck
 - [ianh/owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [glouw/tinn](https://github.com/glouw/tinn) - A tiny neural network library
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
@@ -230,7 +230,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.5.50791, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.5.51130, 3.3.5 = 3.3.5a.12340)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -309,7 +309,7 @@
 
 ## Dockerfile 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [jpetazzo/shpod](https://github.com/jpetazzo/shpod) - Container image to get a consistent training environment to work on Kubernetes.
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
@@ -407,7 +407,7 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [jackc/tern](https://github.com/jackc/tern) - The SQL Fan's Migrator
 - [davidschlachter/embedded-struct-visualizer](https://github.com/davidschlachter/embedded-struct-visualizer) - Tool to visualize the graph of embedded structs in Go projects
@@ -904,7 +904,6 @@
 - [coffeemug/defmacro](https://github.com/coffeemug/defmacro) - 
 - [MLH/mlh-hackathon-nodejs-starter](https://github.com/MLH/mlh-hackathon-nodejs-starter) - Hackathon starter project for Node.js applications
 - [MLH/mlh-hackathon-flask-starter](https://github.com/MLH/mlh-hackathon-flask-starter) - Hackathon starter project for Flask applications
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [xiaoyanguoke/CIAHackingTools](https://github.com/xiaoyanguoke/CIAHackingTools) - WikiLeaks Vault 7 CIA Hacking Tools
 - [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
@@ -1148,7 +1147,7 @@
 - [el1t/uBlock-Safari](https://github.com/el1t/uBlock-Safari) - uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.
 - [kubek2k/lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
 - [kogg/hovercards](https://github.com/kogg/hovercards) - HoverCards is a chrome extension that lets you see what's behind links from youtube, twitter, reddit, soundcloud, imgur, & instagram — all with out ever leaving the web page you're currently on.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js) - Gmail JavaScript API
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -1383,6 +1382,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [xy2z/PineDocs](https://github.com/xy2z/PineDocs) - A fast and lightweight site for viewing files
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
@@ -1439,6 +1439,7 @@
 
 ## Python 
 
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [python-injector/flask_injector](https://github.com/python-injector/flask_injector) - Adds Injector support to Flask.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -1449,7 +1450,7 @@
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [StackeredSAS/AMAnDe](https://github.com/StackeredSAS/AMAnDe) - Extract, gather and analyze information from an Android Manifest file or an APK.
-- [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
@@ -1700,6 +1701,7 @@
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 - [mattupstate/flask-security](https://github.com/mattupstate/flask-security) - Quick and simple security for Flask applications
