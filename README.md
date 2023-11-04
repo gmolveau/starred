@@ -231,7 +231,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51886, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51972, 3.3.5 = 3.3.5a.12340)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -328,7 +328,7 @@
 - [chrismccord/single_file_phx_bumblebee_ml](https://github.com/chrismccord/single_file_phx_bumblebee_ml) - 
 - [elixir-sqlite/ecto_sqlite3](https://github.com/elixir-sqlite/ecto_sqlite3) - An Ecto SQLite3 adapter.
 - [pmarreck/elixir-snippets](https://github.com/pmarreck/elixir-snippets) - Just some WIP in Elixir and related experiments
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
@@ -401,7 +401,7 @@
 - [crossplane/crossplane-runtime](https://github.com/crossplane/crossplane-runtime) - A set of libraries for writing Crossplane controllers.
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
+- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [jvns/tiny-resolver](https://github.com/jvns/tiny-resolver) - 
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
@@ -594,7 +594,7 @@
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [denouche/go-api-skeleton](https://github.com/denouche/go-api-skeleton) - 
-- [emersion/go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
+- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for clients and servers
 - [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - [DEPRECATED] Download Go binaries as fast and easily as possible.
 - [tsaikd/gogstash](https://github.com/tsaikd/gogstash) - Logstash like, written in golang
 - [devnw/alog](https://github.com/devnw/alog) - Fully concurrent, non-IO blocking Logger for Go
@@ -1548,7 +1548,7 @@
 - [mosquito/aiofile](https://github.com/mosquito/aiofile) - Real asynchronous file operations with asyncio support.
 - [miguelgrinberg/flask-tables](https://github.com/miguelgrinberg/flask-tables) - Beautiful Interactive tables in your Flask templates.
 - [cr0hn/dockerfile-security](https://github.com/cr0hn/dockerfile-security) - Static security checker for Dockerfiles
-- [miguelgrinberg/alchemical](https://github.com/miguelgrinberg/alchemical) - SQLAlchemy 1.4+ wrapper that simplifies its use in Python applications. Can be used on its own or alongside Flask, FastAPI or other web frameworks.
+- [miguelgrinberg/alchemical](https://github.com/miguelgrinberg/alchemical) - SQLAlchemy 2.0+ wrapper that simplifies its use in Python applications. Can be used on its own or alongside Flask, FastAPI or other web frameworks.
 - [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [EvanK/ubuntu-purge-kernels](https://github.com/EvanK/ubuntu-purge-kernels) - Remove all but the running and two installed installed kernels for an Ubuntu server
