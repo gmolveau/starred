@@ -232,7 +232,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52095, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52188, 3.3.5 = 3.3.5a.12340)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -354,13 +354,16 @@
 
 ## Go 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for Subsonic music servers
+- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -374,7 +377,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
@@ -592,7 +595,6 @@
 - [PierreZ/goStatic](https://github.com/PierreZ/goStatic) - A really small static web server for Docker
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
-- [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) - 🌰  encrypt/decrypt using ssh keys
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [denouche/go-api-skeleton](https://github.com/denouche/go-api-skeleton) - 
@@ -874,7 +876,6 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [ClearTax/html-mocker](https://github.com/ClearTax/html-mocker) - Script to mock dynamic data in HTML for automatic responsiveness testing
-- [socketio/chat-example](https://github.com/socketio/chat-example) - Basic chat example with Socket.IO
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [vladocar/Hartija---CSS-Print-Framework](https://github.com/vladocar/Hartija---CSS-Print-Framework) - Universal CSS for web printing
@@ -990,6 +991,7 @@
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [facundoolano/socketio-auth](https://github.com/facundoolano/socketio-auth) - Authentication module for socket.io
+- [socketio/chat-example](https://github.com/socketio/chat-example) - Basic chat example with Socket.IO
 - [oitozero/ngSweetAlert](https://github.com/oitozero/ngSweetAlert) - AngularJS wrapper for SweetAlert
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [csev/py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
@@ -1922,6 +1924,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) - 🌰  encrypt/decrypt using ssh keys
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [neithernut/git-dit](https://github.com/neithernut/git-dit) - Decentralized Issue Tracking for git
 - [simao/spotify-backup](https://github.com/simao/spotify-backup) - 
@@ -2261,7 +2264,7 @@
 - [BlazeSoftware/atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 
 ## V 
