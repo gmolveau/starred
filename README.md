@@ -235,7 +235,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52301, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52393, 3.3.5 = 3.3.5a.12340)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -446,7 +446,6 @@
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-- [adamlouis/squirrelbyte](https://github.com/adamlouis/squirrelbyte) - a tool for gathering & exploring data
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -1090,7 +1089,6 @@
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [detroitenglish/pw-pwnage-cfworker](https://github.com/detroitenglish/pw-pwnage-cfworker) - Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND check for matches against haveibeenpwned's 10+ billion breached accounts
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [salihciftci/liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
 - [qor/admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [vpegado/angular-markdown-filter](https://github.com/vpegado/angular-markdown-filter) - Markdown filter for Angular
 - [galvez/plainbudget](https://github.com/galvez/plainbudget) - Minimalist Plain Text Budgeting
@@ -1925,7 +1923,7 @@
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 - [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) - 🌰  encrypt/decrypt using ssh keys
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
