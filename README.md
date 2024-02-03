@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ActionScript](#actionscript)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
@@ -75,10 +74,6 @@
 - [Vue](#vue)
 - [YARA](#yara)
 - [Zig](#zig)
-
-## ActionScript 
-
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## AppleScript 
 
@@ -214,7 +209,7 @@
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 - [emilengler/sysget](https://github.com/emilengler/sysget) - One package manager to rule them all
 - [googleprojectzero/BrokenType](https://github.com/googleprojectzero/BrokenType) - TrueType and OpenType font fuzzing toolset
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -236,7 +231,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53040, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53162, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -972,7 +967,7 @@
 - [ssherwood/spring-boot-jpa](https://github.com/ssherwood/spring-boot-jpa) - A Spring Boot microservices reference application using Spring Data JPA
 - [google/wycheproof](https://github.com/google/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [republique-et-canton-de-geneve/chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - Electronic vote system, version 1.
-- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
@@ -1076,7 +1071,7 @@
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
-- [skidding/jobs-done](https://github.com/skidding/jobs-done) - Ritual app for ending the work day inspired by Deep Work
+- [ovidiuch/jobs-done](https://github.com/ovidiuch/jobs-done) - Ritual app for ending the work day inspired by Deep Work
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB) - :nut_and_bolt: A relentless key-value store for the browser.
 - [f/graphql.js](https://github.com/f/graphql.js) - A Simple and Isomorphic GraphQL Client for JavaScript
 - [muicss/johnnydepp](https://github.com/muicss/johnnydepp) - A tiny dependency manager for modern browsers (992 bytes)
@@ -1298,7 +1293,7 @@
 - [simonw/click-app-template-repository](https://github.com/simonw/click-app-template-repository) - GitHub template repository for creating new Python Click CLI tools, using the simonw/click-app cookiecutter template
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews to speed up your pull requests
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
@@ -1841,6 +1836,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [neillturner/kitchen-ansible](https://github.com/neillturner/kitchen-ansible) - Ansible Provisioner for Test Kitchen
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
@@ -1897,6 +1893,7 @@
 - [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [biscuit-auth/biscuit-rust](https://github.com/biscuit-auth/biscuit-rust) - Rust implementation of the Biscuit authorization token
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit) - delegated, decentralized, capabilities based authorization token
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -2170,7 +2167,6 @@
 
 ## TypeScript 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue) - JavaScript library that translates Cron expressions into human readable descriptions
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -2187,7 +2183,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [raimohanska/ourboard](https://github.com/raimohanska/ourboard) - An online whiteboard
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
