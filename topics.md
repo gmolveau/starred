@@ -236,7 +236,7 @@
 
 ## ai 
 
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews to speed up your pull requests
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -334,7 +334,7 @@
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [hhsnopek/beeroclock](https://github.com/hhsnopek/beeroclock) - Is it beer o’clock yet? 🍺
-- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 - [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity.
 
 ## artificial-intelligence 
@@ -428,7 +428,7 @@
 - [dawson-org/dawson-cli](https://github.com/dawson-org/dawson-cli) - A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda)
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
-- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 - [convox/rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 
 ## azure 
@@ -642,7 +642,7 @@
 
 ## code-quality 
 
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews to speed up your pull requests
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
@@ -1164,7 +1164,7 @@
 
 ## finance 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
 ## firebase 
@@ -1346,7 +1346,7 @@
 ## github 
 
 - [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [shellscape/github-notifications-classic](https://github.com/shellscape/github-notifications-classic) - A CSS project that restores the classic Github Notifications appearance.
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
@@ -1846,7 +1846,6 @@
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [AverageMarcus/kube-ssh](https://github.com/AverageMarcus/kube-ssh) - Get shell access to a Kubernetes host instances
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
@@ -1975,7 +1974,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53040, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53162, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
@@ -2452,7 +2451,7 @@
 - [nathan-osman/hang](https://github.com/nathan-osman/hang) - Extremely simple Linux application that hangs until a signal is received.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53040, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53162, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [awalgarg/curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -2672,7 +2671,6 @@
 
 ## nextjs 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
@@ -2703,7 +2701,6 @@
 
 ## nodejs 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2758,7 +2755,7 @@
 
 ## npm 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -3308,10 +3305,10 @@
 - [MorteNoir1/virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day) - VirtualBox E1000 Guest-to-Host Escape
 - [srijs/rust-aws-lambda](https://github.com/srijs/rust-aws-lambda) - Support for running Rust programs on AWS Lambda
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-- [skidding/jobs-done](https://github.com/skidding/jobs-done) - Ritual app for ending the work day inspired by Deep Work
+- [ovidiuch/jobs-done](https://github.com/ovidiuch/jobs-done) - Ritual app for ending the work day inspired by Deep Work
 - [austin-taylor/code-vault](https://github.com/austin-taylor/code-vault) - Collection of useful notebooks and snippets
 - [0xmitsurugi/gimmecredz](https://github.com/0xmitsurugi/gimmecredz) - You're a #pentester and you totally pwn that linux box, congrats! Now what? You can launch gimmecredz.sh  which will try to extract all passwords from known locations.
-- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 - [emilengler/sysget](https://github.com/emilengler/sysget) - One package manager to rule them all
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
@@ -3719,7 +3716,7 @@
 
 ## postgresql 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -3862,7 +3859,7 @@
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews to speed up your pull requests
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -4094,7 +4091,6 @@
 
 ## react 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -4179,7 +4175,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [ssherwood/spring-boot-jpa](https://github.com/ssherwood/spring-boot-jpa) - A Spring Boot microservices reference application using Spring Data JPA
-- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 
 ## reverse-engineering 
 
@@ -4198,6 +4194,7 @@
 
 ## ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
@@ -4469,7 +4466,7 @@
 - [dawson-org/dawson-cli](https://github.com/dawson-org/dawson-cli) - A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda)
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 
 ## shell 
 
@@ -4521,7 +4518,7 @@
 
 ## spring 
 
-- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 
 ## spring-boot 
 
@@ -4742,7 +4739,6 @@
 
 ## typescript 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
