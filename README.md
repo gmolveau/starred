@@ -237,7 +237,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53989, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53989, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -277,7 +277,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [macchiato-framework/macchiato-core](https://github.com/macchiato-framework/macchiato-core) - Ring style HTTP server abstraction for Node.js
 
 ## CoffeeScript 
@@ -318,6 +318,8 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [lightrun-platform/koolkits](https://github.com/lightrun-platform/koolkits) - 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.
 - [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -340,7 +342,7 @@
 - [chrismccord/single_file_phx_bumblebee_ml](https://github.com/chrismccord/single_file_phx_bumblebee_ml) - 
 - [elixir-sqlite/ecto_sqlite3](https://github.com/elixir-sqlite/ecto_sqlite3) - An Ecto SQLite3 adapter.
 - [pmarreck/elixir-snippets](https://github.com/pmarreck/elixir-snippets) - Just some WIP in Elixir and related experiments
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
@@ -365,6 +367,8 @@
 
 ## Go 
 
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
+- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
@@ -876,7 +880,7 @@
 ## HCL 
 
 - [larrymyers/nomad-hello-world](https://github.com/larrymyers/nomad-hello-world) - The companion sample project for using Nomad and Traefik for deployment infrastructure.
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [ContainerSolutions/terraform-examples](https://github.com/ContainerSolutions/terraform-examples) - Simple and idiomatic examples of various Terraform functions and features.
 - [frankcash/go-lambda-ping](https://github.com/frankcash/go-lambda-ping) - Deploy a Lambda to Ping a Site in 20 Seconds!
 
@@ -990,7 +994,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [frameable/el](https://github.com/frameable/el) - Minimal JavaScript application framework / WebComponents base class
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -1206,7 +1210,6 @@
 
 ## Jupyter Notebook 
 
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge's notes on the various go profiling methods that are available.
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -1460,6 +1463,7 @@
 
 ## Python 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [XboxDev/endgame-exploit](https://github.com/XboxDev/endgame-exploit) - A modern dashboard exploit for the original Microsoft Xbox.
@@ -1886,6 +1890,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [cea-sec/sanzu](https://github.com/cea-sec/sanzu) - Graphical remote desktop solution
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) - Tool and framework for securely reading untrusted USB mass storage devices.
@@ -2045,6 +2050,7 @@
 
 ## Shell 
 
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [huazhihao/kubespy](https://github.com/huazhihao/kubespy) - pod debugging tool for kubernetes clusters with docker runtimes
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -2212,7 +2218,7 @@
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [retrohacker/template](https://github.com/retrohacker/template) - A simple framework for webapps
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
@@ -2287,7 +2293,7 @@
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
-- [dimatill/graphql-shield](https://github.com/dimatill/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
+- [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [HaikuTeam/core](https://github.com/HaikuTeam/core) - :rice: Interactive UI animation engine for the Web.  Core renderer for Haiku Animator.
