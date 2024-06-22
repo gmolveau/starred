@@ -42,6 +42,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
@@ -273,6 +274,7 @@
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 
 ## android 
 
@@ -466,6 +468,7 @@
 
 ## bash 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [kislyuk/argcomplete](https://github.com/kislyuk/argcomplete) - Python and tab completion, better together.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -492,7 +495,7 @@
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [hhsnopek/beeroclock](https://github.com/hhsnopek/beeroclock) - Is it beer o’clock yet? 🍺
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 ## bioinformatics 
 
@@ -500,7 +503,7 @@
 
 ## bitcoin 
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [geek-at/phptrader](https://github.com/geek-at/phptrader) - A simple php powered Bitcoin and Ethereum trading bot
 
 ## blockchain 
@@ -546,7 +549,7 @@
 
 ## chrome 
 
-- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -563,7 +566,8 @@
 
 ## cli 
 
-- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
@@ -590,7 +594,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [genuinetools/bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
@@ -642,7 +646,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 ## clojure 
 
@@ -706,7 +710,7 @@
 
 ## continuous-integration 
 
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -730,6 +734,19 @@
 ## cryptocurrency 
 
 - [paulpierre/informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
+
+## cryptography 
+
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
+- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
+- [go-piv/piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go
+- [marcobellaccini/pyAesCrypt](https://github.com/marcobellaccini/pyAesCrypt) - A Python 3 module and script that uses AES256-CBC to encrypt/decrypt files and streams in AES Crypt file format (version 2).
+- [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
+- [github/SoftU2F](https://github.com/github/SoftU2F) - Software U2F authenticator for macOS
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra
+- [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
+- [mimoo/Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - How to backdoor Diffie-Hellman
 
 ## crystal 
 
@@ -816,7 +833,7 @@
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 ## data-structures 
 
@@ -904,7 +921,7 @@
 
 ## deployment 
 
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [appvia/tako](https://github.com/appvia/tako) - Develop Kubernetes apps iteratively with Docker-Compose
 - [skx/deployr](https://github.com/skx/deployr) - A simple golang application to automate the deployment of software releases.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
@@ -914,7 +931,7 @@
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-- [carbon-design-system/carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+- [carbon-design-system/carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, icons, pictograms, text styles, color styles, grid templates).
 
 ## devops 
 
@@ -925,7 +942,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -949,7 +966,7 @@
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 ## discord 
 
@@ -978,7 +995,7 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 
 ## docker 
 
@@ -996,11 +1013,11 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [mlabouardy/nexus-cli](https://github.com/mlabouardy/nexus-cli) - Nexus CLI for Docker Registry v2 🐳
 - [PARC6502/docker-media-server](https://github.com/PARC6502/docker-media-server) - Jellyfin media server with sonarr, radarr, ombi, jackett, deluge and traefik
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
@@ -1157,6 +1174,7 @@
 
 ## elixir 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [michalmuskala/jason](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
 - [elixir-sqlite/exqlite](https://github.com/elixir-sqlite/exqlite) - An SQLite3 driver for Elixir
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
@@ -1224,7 +1242,7 @@
 
 ## firefox 
 
-- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -1359,6 +1377,7 @@
 
 ## git 
 
+- [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog) - Automatic Changelog generator using Jinja2 templates.
@@ -1398,6 +1417,7 @@
 
 ## github 
 
+- [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
@@ -1499,7 +1519,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [lucperkins/rek](https://github.com/lucperkins/rek) - An easy HTTP client for Go. Inspired by the immortal Requests.
-- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
+- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go
 - [jimsmart/grobotstxt](https://github.com/jimsmart/grobotstxt) - grobotstxt is a native Go port of Google's robots.txt parser and matcher library.
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
@@ -1613,6 +1633,8 @@
 
 ## golang 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes
@@ -1955,6 +1977,7 @@
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [go-goyave/goyave](https://github.com/go-goyave/goyave) - 🍐 The enterprise REST API framework
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -2039,16 +2062,15 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.55142, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.55165, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.55141)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [AsteroidOS/asteroid](https://github.com/AsteroidOS/asteroid) - Build script for AsteroidOS, an open-source operating system for smartwatches
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 
 ## haskell 
@@ -2200,6 +2222,7 @@
 
 ## javascript 
 
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
@@ -2222,7 +2245,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [Canop/miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
@@ -2489,7 +2512,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
@@ -2538,7 +2561,7 @@
 - [nathan-osman/hang](https://github.com/nathan-osman/hang) - Extremely simple Linux application that hangs until a signal is received.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.55142, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.55165, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.55141)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [awalgarg/curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -2604,7 +2627,7 @@
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
@@ -2740,6 +2763,7 @@
 
 ## mysql 
 
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [bokwoon95/go-structured-query](https://github.com/bokwoon95/go-structured-query) - Type safe SQL query builder and struct mapper for Go
@@ -2809,6 +2833,7 @@
 
 ## node 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [santiq/bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs) - Implementation of a bulletproof node.js API 🛡️
@@ -2886,7 +2911,6 @@
 
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
-- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 
 ## open-source 
 
@@ -2934,8 +2958,9 @@
 
 ## others 
 
+- [asdf-community/asdf-python](https://github.com/asdf-community/asdf-python) - Python plugin for the asdf version manager
+- [mbcrawfo/GenericMakefile](https://github.com/mbcrawfo/GenericMakefile) - A generic makefile for use with small/medium C and C++ projects.
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
-- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Create virtual environments for any Python version, without needing Python installed.
 - [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate) - 🍍 Configurable persistence and rehydration of Pinia stores.
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
@@ -3155,7 +3180,6 @@
 - [cryptomator/android](https://github.com/cryptomator/android) - Cryptomator for Android
 - [mapsme/omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
 - [micahflee/semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep
-- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
 - [adamchainz/flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
 - [xmendez/wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
@@ -3201,7 +3225,7 @@
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for Cloud-Native SaaS
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for multi-instance multi-tenancy
 - [tkmru/idapm](https://github.com/tkmru/idapm) - idapm is IDA Plugin Manager via GitHub Repository.
 - [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) - Free and open source Bootstrap 5 Admin Dashboard Template with vanilla Javascript
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
@@ -3675,7 +3699,6 @@
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations
 - [milliondreams/socket.io.play](https://github.com/milliondreams/socket.io.play) - socket.io with play framework 2.0
 - [fullstackreact/react-daily-ui](https://github.com/fullstackreact/react-daily-ui) - 100 Days of React UI Interfaces - https://codepen.io/collection/DoLZRm/4/
-- [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [xeoncross/secureserver](https://github.com/xeoncross/secureserver) - A Simple, Secured Default HTTP(S) Server for Golang
 - [revel/heroku-buildpack-go-revel](https://github.com/revel/heroku-buildpack-go-revel) - Go support for Heroku
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
@@ -3756,7 +3779,6 @@
 - [flickr/justified-layout](https://github.com/flickr/justified-layout) - Pass in box sizes and get back sizes and coordinates for a justified layout
 - [llambiel/letsecureme](https://github.com/llambiel/letsecureme) - The home of website
 - [ptmt/react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
-- [mimoo/Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - How to backdoor Diffie-Hellman
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [superkojiman/onetwopunch](https://github.com/superkojiman/onetwopunch) - Use unicornscan to quickly scan all open ports, and then pass the open ports to nmap for detailed scans.
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
@@ -3857,6 +3879,7 @@
 
 ## postgresql 
 
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -3894,6 +3917,7 @@
 
 ## powershell 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## privacy 
@@ -3972,8 +3996,11 @@
 
 ## python 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [kodemore/kink](https://github.com/kodemore/kink) - Dependency injection container made for Python
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Create virtual environments for any Python version, without needing Python installed.
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -4171,7 +4198,7 @@
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [CleverCloud/flask-example](https://github.com/CleverCloud/flask-example) - Run Flask on Clever Cloud
@@ -4209,7 +4236,7 @@
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 
 ## pytorch 
@@ -4232,12 +4259,13 @@
 
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [timlindquist/Nintimdo-RP](https://github.com/timlindquist/Nintimdo-RP) - Raspberry Pi Gaming Console
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 ## react 
 
@@ -4351,6 +4379,7 @@
 
 ## ruby 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -4362,6 +4391,7 @@
 
 ## rust 
 
+- [tusharsadhwani/yen](https://github.com/tusharsadhwani/yen) - Create virtual environments for any Python version, without needing Python installed.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [cea-sec/sanzu](https://github.com/cea-sec/sanzu) - Graphical remote desktop solution
@@ -4568,7 +4598,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -4638,6 +4668,7 @@
 
 ## shell 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
@@ -4674,13 +4705,12 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [muhasturk/ukupgrade](https://github.com/muhasturk/ukupgrade) - Upgrade latest kernel automatically for Ubuntu and derivatives such as Linux Mint. :runner:
 
 ## sketch 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
-- [carbon-design-system/carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 
 ## solidity 
 
@@ -4699,6 +4729,7 @@
 
 ## sql 
 
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
@@ -4725,7 +4756,7 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [samonzeweb/godb](https://github.com/samonzeweb/godb) - A Go SQL query builder and struct mapper.
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 
 ## sql-server 
@@ -4866,7 +4897,6 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 
 ## terraform 
 
