@@ -240,7 +240,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.0.55939, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.0.56008, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -260,7 +260,7 @@
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [jessfraz/blog](https://github.com/jessfraz/blog) - Source for my blog.
 - [noraj/Create-python-package-presentation](https://github.com/noraj/Create-python-package-presentation) - How to create a simple python package
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [wg-dashboard/wg-dashboard](https://github.com/wg-dashboard/wg-dashboard) - an (unmaintained) easy-to-use dashboard for wireguard vpn
 - [saladepate/saladepate.github.io](https://github.com/saladepate/saladepate.github.io) - 
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
@@ -392,7 +392,7 @@
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-- [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
+- [julien040/gut](https://github.com/julien040/gut) - A beginner friendly porcelain for git
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [benbjohnson/hashfs](https://github.com/benbjohnson/hashfs) - Implementation of io/fs.FS that appends SHA256 hashes to filenames to allow for aggressive HTTP caching.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -469,7 +469,7 @@
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event-driven applications.
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -628,7 +628,7 @@
 - [tsaikd/gogstash](https://github.com/tsaikd/gogstash) - Logstash like, written in golang
 - [devnw/alog](https://github.com/devnw/alog) - Fully concurrent, non-IO blocking Logger for Go
 - [huacnlee/mediom](https://github.com/huacnlee/mediom) - Forum web application, an example for from Rails to Go (Revel)
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [ryanskidmore/parallel](https://github.com/ryanskidmore/parallel) - parallel: a Go Parallel Processing Library
@@ -667,7 +667,7 @@
 - [dghubble/go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
@@ -688,7 +688,7 @@
 - [storyicon/gos](https://github.com/storyicon/gos) - Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
+- [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go
 - [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
 - [jackdoe/baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
@@ -750,7 +750,7 @@
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [cornelk/go-benchmark](https://github.com/cornelk/go-benchmark) - Golang benchmarks used for optimizing code
 - [jeffwillette/graphql-go-pets-example](https://github.com/jeffwillette/graphql-go-pets-example) - An example of neelance/graphql-go, resolves against sqlite
 - [OscarYuen/go-graphql-starter](https://github.com/OscarYuen/go-graphql-starter) - This repository uses graph-gophers/graphql-go to build a starter web application
@@ -998,7 +998,7 @@
 - [iancohee/AndroidReverseShell](https://github.com/iancohee/AndroidReverseShell) - Reverse Shell for Android
 - [ssherwood/spring-boot-jpa](https://github.com/ssherwood/spring-boot-jpa) - A Spring Boot microservices reference application using Spring Data JPA
 - [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
-- [republique-et-canton-de-geneve/chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - Electronic vote system, version 1.
+- [republique-et-canton-de-geneve/chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - The Geneva electronic vote system, version 1.
 - [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -1480,6 +1480,7 @@
 
 ## Python 
 
+- [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [kodemore/kink](https://github.com/kodemore/kink) - Dependency injection container made for Python
@@ -1554,7 +1555,7 @@
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
@@ -2259,7 +2260,7 @@
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [retrohacker/template](https://github.com/retrohacker/template) - A simple framework for webapps
