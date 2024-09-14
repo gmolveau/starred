@@ -116,6 +116,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -613,7 +614,7 @@
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 unique cloners as of July '24, 700+ Homebrew installs 7/23-7/24
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 clones by ~12,000 unique cloners as of Sept '24, and averaging ~60 Homebrew installs monthly since June 2023
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [julien040/gut](https://github.com/julien040/gut) - A beginner friendly porcelain for git
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -2110,7 +2111,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56461, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56513, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -2232,6 +2233,11 @@
 
 - [Schroedinger-Hat/ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
 - [aaparella/carve](https://github.com/aaparella/carve) - Go implementation of Seam Carving algorithm.
+
+## instagram 
+
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
+- [aaronpk/OwnYourGram](https://github.com/aaronpk/OwnYourGram) - 📷 Save your Instagram photos to your own website!
 
 ## ios 
 
@@ -2398,6 +2404,7 @@
 
 ## json 
 
+- [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
 - [michalmuskala/jason](https://github.com/michalmuskala/jason) - A blazing fast JSON parser and generator in pure Elixir.
@@ -2622,7 +2629,7 @@
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56461, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56513, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [awalgarg/curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -3026,6 +3033,8 @@
 
 ## others 
 
+- [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
+- [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [mangoszero/database](https://github.com/mangoszero/database) - The *MangosZero* world database containing creatures, npcs etc.to populate the game world with. Report all issues at https://www.getmangos.eu/bug-tracker/mangos-zero/
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [blupdew/vue-tp](https://github.com/blupdew/vue-tp) - 
@@ -3512,7 +3521,6 @@
 - [CurtisLusmore/ghp](https://github.com/CurtisLusmore/ghp) - A simple web server for serving static GitHub Pages locally
 - [dbrgn/xkcdpass-rs](https://github.com/dbrgn/xkcdpass-rs) - Generate XKCD style passwords.
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
-- [aaronpk/OwnYourGram](https://github.com/aaronpk/OwnYourGram) - 📷 Save your Instagram photos to your own website!
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
 - [just-fine/fine.sh-cli](https://github.com/just-fine/fine.sh-cli) - generate your static website in 3 seconds
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
@@ -3701,7 +3709,6 @@
 - [iron/iron](https://github.com/iron/iron) - An Extensible, Concurrent Web Framework for Rust
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [saaph/eBPF_processor](https://github.com/saaph/eBPF_processor) - An IDA processor for eBPF bytecode
-- [Cn33liz/JSMeter](https://github.com/Cn33liz/JSMeter) - JavaScript Reversed TCP Meterpreter Stager
 - [usbwall/usbwall](https://github.com/usbwall/usbwall) - Control ldap users access to usb devices
 - [cea-sec/Sibyl](https://github.com/cea-sec/Sibyl) - A Miasm2 based function divination.
 - [DGA-MI-SSI/YaCo](https://github.com/DGA-MI-SSI/YaCo) - YaCo is an Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
@@ -3894,7 +3901,7 @@
 
 ## parsing 
 
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [ianh/owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
 - [Jeffail/gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go
@@ -4365,7 +4372,7 @@
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost) - Publish flaring fast blogs with Gatsby and Ghost
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [bchiang7/spotify-profile](https://github.com/bchiang7/spotify-profile) - A web app for visualizing personalized Spotify data built with React, Express, and the Spotify API
 - [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - :inbox_tray: An email client that functions like a kanban board.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
@@ -4752,7 +4759,7 @@
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 unique cloners as of July '24, 700+ Homebrew installs 7/23-7/24
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 clones by ~12,000 unique cloners as of Sept '24, and averaging ~60 Homebrew installs monthly since June 2023
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
