@@ -149,7 +149,6 @@
 - [eduardsui/tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
 - [RyuKojiro/apple1](https://github.com/RyuKojiro/apple1) - An Apple 1 Emulator that doesn't suck
 - [ianh/owl](https://github.com/ianh/owl) - A parser generator for visibly pushdown languages.
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
 - [glouw/tinn](https://github.com/glouw/tinn) - A tiny neural network library
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
@@ -227,6 +226,7 @@
 - [cvengler/sysget](https://github.com/cvengler/sysget) - One package manager to rule them all
 - [googleprojectzero/BrokenType](https://github.com/googleprojectzero/BrokenType) - TrueType and OpenType font fuzzing toolset
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [Dooskington/GameLad](https://github.com/Dooskington/GameLad) - :tv: An (almost) fully featured Game Boy emulator.
 - [Habbie/hello-dns](https://github.com/Habbie/hello-dns) - Hello and welcome to DNS!
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
@@ -245,7 +245,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56647, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56647, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.56713)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -747,7 +747,6 @@
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [sdomino/scribble](https://github.com/sdomino/scribble) - A tiny Golang JSON database
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [joncalhoun/form](https://github.com/joncalhoun/form) - Easily create HTML forms with Go structs.
 - [go-gormigrate/gormigrate](https://github.com/go-gormigrate/gormigrate) - Minimalistic database migration helper for Gorm ORM
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
@@ -794,7 +793,7 @@
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [xfernando/go2seccomp](https://github.com/xfernando/go2seccomp) - Generate seccomp profiles from go binaries
 - [mailru/easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
@@ -1131,6 +1130,7 @@
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [detroitenglish/pw-pwnage-cfworker](https://github.com/detroitenglish/pw-pwnage-cfworker) - Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND check for matches against haveibeenpwned's 10+ billion breached accounts
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [qor/admin](https://github.com/qor/admin) - Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - [vpegado/angular-markdown-filter](https://github.com/vpegado/angular-markdown-filter) - Markdown filter for Angular
 - [galvez/plainbudget](https://github.com/galvez/plainbudget) - Minimalist Plain Text Budgeting
@@ -1520,7 +1520,6 @@
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [StackeredSAS/AMAnDe](https://github.com/StackeredSAS/AMAnDe) - Extract, gather and analyze information from an Android Manifest file or an APK.
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
@@ -2270,6 +2269,7 @@
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
