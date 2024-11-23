@@ -245,7 +245,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56819, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.0.57244)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.5.57689, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57564)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -267,6 +267,7 @@
 - [noraj/Create-python-package-presentation](https://github.com/noraj/Create-python-package-presentation) - How to create a simple python package
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [wg-dashboard/wg-dashboard](https://github.com/wg-dashboard/wg-dashboard) - an (unmaintained) easy-to-use dashboard for wireguard vpn
+- [aaronpk/OwnYourGram](https://github.com/aaronpk/OwnYourGram) - 📷 Save your Instagram photos to your own website!
 - [saladepate/saladepate.github.io](https://github.com/saladepate/saladepate.github.io) - 
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
@@ -376,6 +377,10 @@
 
 ## Go 
 
+- [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go.
+- [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [aaronstillwell/terraform-provider-dokku](https://github.com/aaronstillwell/terraform-provider-dokku) - A terraform provider for provisioning applications on the Dokku PaaS
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
@@ -576,7 +581,7 @@
 - [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for multi-instance multi-tenancy
 - [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
+- [mholt/archiver](https://github.com/mholt/archiver) - DEPRECATED. Please use mholt/archives instead.
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [kalbhor/tracesite](https://github.com/kalbhor/tracesite) - Go implementation of the traceroute tool
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
@@ -951,6 +956,7 @@
 - [tompollard/phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown) - Template for writing a PhD thesis in Markdown
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
 - [minimaxir/system-dashboard](https://github.com/minimaxir/system-dashboard) - Minimalist Win/OSX/Linux System Dashboard using Flask and Freeboard
+- [heroku/scala-getting-started](https://github.com/heroku/scala-getting-started) - Getting Started with Scala / Play on Heroku.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [pubnub/polymer-cat-chat-v1](https://github.com/pubnub/polymer-cat-chat-v1) - A simple chat room in Material Design build with Polymer (Polymer 1.0)
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
@@ -983,7 +989,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
-- [hyperledger/web3j](https://github.com/hyperledger/web3j) - Lightweight Java and Android library for integration with Ethereum clients
+- [hyperledger-web3j/web3j](https://github.com/hyperledger-web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients
 - [f4b6a3/tsid-creator](https://github.com/f4b6a3/tsid-creator) - A Java library for generating Time-Sorted Unique Identifiers (TSID).
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [Farael49/Spring-Filter-Interceptor-Exceptions](https://github.com/Farael49/Spring-Filter-Interceptor-Exceptions) - How to handle exceptions within Spring Filters and Interceptors
@@ -1082,7 +1088,6 @@
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [hakanu/pervane](https://github.com/hakanu/pervane) - Plain text file based note taking and knowledge base building tool, markdown editor, simple browser IDE.
 - [Tygs/0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [paradite/gent](https://github.com/paradite/gent) - Generate the "perfect" title/bio for LinkedIn and Twitter
@@ -1444,7 +1449,6 @@
 - [klein/klein.php](https://github.com/klein/klein.php) - A fast & flexible router
 - [dannyvankooten/AltoRouter](https://github.com/dannyvankooten/AltoRouter) - PHP routing class. Lightweight yet flexible. Supports REST, dynamic and reversed routing.
 - [WhiteFangs/BotDuCul](https://github.com/WhiteFangs/BotDuCul) - Le code source du bot Twitter @BotDuCul
-- [aaronpk/OwnYourGram](https://github.com/aaronpk/OwnYourGram) - 📷 Save your Instagram photos to your own website!
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1488,7 +1492,12 @@
 
 ## Python 
 
-- [ArchiveBox/pydantic-pkgr](https://github.com/ArchiveBox/pydantic-pkgr) - 📦 Modern Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
+- [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
+- [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest) - Snapshot Testing utils for Python 📸
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [ArchiveBox/abx-pkg](https://github.com/ArchiveBox/abx-pkg) - 📦 Modern strongly typed Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios
@@ -1524,6 +1533,7 @@
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [StackeredSAS/AMAnDe](https://github.com/StackeredSAS/AMAnDe) - Extract, gather and analyze information from an Android Manifest file or an APK.
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
@@ -1811,6 +1821,7 @@
 - [miguelgrinberg/flasky](https://github.com/miguelgrinberg/flasky) - Companion code to my O'Reilly book "Flask Web Development", second edition.
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
 - [miguelgrinberg/Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes
+- [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
@@ -1955,7 +1966,7 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -2010,7 +2021,7 @@
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [samrat/rug](https://github.com/samrat/rug) - A stripped-down version of Git, implemented in Rust
@@ -2030,7 +2041,7 @@
 - [dbrgn/xkcdpass-rs](https://github.com/dbrgn/xkcdpass-rs) - Generate XKCD style passwords.
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
@@ -2107,7 +2118,7 @@
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [wlloyduw/ContainerProfiler](https://github.com/wlloyduw/ContainerProfiler) - 
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 clones by ~12,000 unique cloners as of Sept '24, and averaging ~60 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~23,000 clones by ~15,000 unique cloners as of Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
 - [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
 - [ajavageek/poor-man-api](https://github.com/ajavageek/poor-man-api) - 
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -2189,6 +2200,7 @@
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [istepanov/docker-backup-to-s3](https://github.com/istepanov/docker-backup-to-s3) - Docker container that periodically backups files to Amazon S3 using s3cmd and cron
+- [heroku/heroku-buildpack-go](https://github.com/heroku/heroku-buildpack-go) - Heroku Go Buildpack
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [aostanin/docker-deluge](https://github.com/aostanin/docker-deluge) - Dockerfile for Deluge
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
@@ -2256,6 +2268,7 @@
 
 ## TypeScript 
 
+- [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -2273,7 +2286,6 @@
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
@@ -2300,7 +2312,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
