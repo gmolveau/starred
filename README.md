@@ -100,6 +100,7 @@
 
 ## C 
 
+- [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -182,7 +183,6 @@
 
 ## C# # 
 
-- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using one set of monitors, mouse and keyboard
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [HaveIBeenPwned/PwnedPasswordsAzureFunction](https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction) - APIs for the k-anonymity Pwned Passwords implementation
@@ -320,7 +320,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [spotter-application/spotter](https://github.com/spotter-application/spotter) - 🔭 Productivity tool to launch everything
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [roughike/inKino](https://github.com/roughike/inKino) - A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web.
@@ -386,6 +386,7 @@
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [aaronstillwell/terraform-provider-dokku](https://github.com/aaronstillwell/terraform-provider-dokku) - A terraform provider for provisioning applications on the Dokku PaaS
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
@@ -418,7 +419,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -829,7 +830,7 @@
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [kevinburke/h256only](https://github.com/kevinburke/h256only) - h256only is not JWT
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
+- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
@@ -1079,6 +1080,7 @@
 - [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - :inbox_tray: An email client that functions like a kanban board.
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [dgl/paste.sh](https://github.com/dgl/paste.sh) - an encrypted pastebin
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -1497,6 +1499,8 @@
 
 ## Python 
 
+- [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1947,6 +1951,8 @@
 
 ## Rust 
 
+- [stvnksslr/uv-migrator](https://github.com/stvnksslr/uv-migrator) - tool for migrating to the python uv project
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -2116,12 +2122,12 @@
 
 ## Shell 
 
+- [rupa/z](https://github.com/rupa/z) - z - jump around
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [asdf-community/asdf-python](https://github.com/asdf-community/asdf-python) - Python plugin for the asdf version manager
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
@@ -2161,7 +2167,7 @@
 - [nvie/git-toolbelt](https://github.com/nvie/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
 - [FusionAuth/security-scripts](https://github.com/FusionAuth/security-scripts) - Scripts built from our Guide to User Data Security
 - [rbrito/usbmount](https://github.com/rbrito/usbmount) - Simple set of scripts to automount removable devices for a Linux system
-- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Bring your dotfile commands and configuration to any shell. Sensible defaults and hundreds of commands preloaded. Supports Bash, Zsh, Fish, Nu, Xonsh, Elvish, Dash, KornShell, macOS, Linux, Wind
+- [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Empower your command line experience for any shell and platform, with hundreds of primitives for powerful and intuitive scripting and automation. Supports Bash, Zsh, Fish, Nu, Xonsh, Elvish, Das
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [dsavell/docker-grav](https://github.com/dsavell/docker-grav) - Docker Container for GRAV CMS
@@ -2292,6 +2298,7 @@
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nicolassutter/unocss-custom-properties](https://github.com/nicolassutter/unocss-custom-properties) - Generate CSS custom properties from your Uno CSS theme.
@@ -2348,7 +2355,6 @@
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [pdepip/mmap.it](https://github.com/pdepip/mmap.it) - Map knowledge into memory with a shortcut driven note taking app
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -2372,7 +2378,7 @@
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [ionic-team/ionic-stencil-hn-app](https://github.com/ionic-team/ionic-stencil-hn-app) - Ionic Stencil HackerNews App
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [eropple/taskbotjs](https://github.com/eropple/taskbotjs) - My favorite JS/TS job processing framework. Maybe yours too? [ARCHIVED]
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
@@ -2426,7 +2432,7 @@
 
 - [blupdew/vue-tp](https://github.com/blupdew/vue-tp) - 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+- [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [snapshot-labs/snapshot-v1](https://github.com/snapshot-labs/snapshot-v1) - V1 interface for Snapshot. Join us on Discord http://discord.snapshot.org
@@ -2444,6 +2450,7 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
