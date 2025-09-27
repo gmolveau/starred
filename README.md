@@ -106,6 +106,7 @@
 
 ## C 
 
+- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
 - [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
@@ -276,6 +277,7 @@
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [jessfraz/blog](https://github.com/jessfraz/blog) - Source for my blog.
 - [noraj/Create-python-package-presentation](https://github.com/noraj/Create-python-package-presentation) - How to create a simple python package
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [wg-dashboard/wg-dashboard](https://github.com/wg-dashboard/wg-dashboard) - an (unmaintained) easy-to-use dashboard for wireguard vpn
 - [aaronpk/OwnYourGram](https://github.com/aaronpk/OwnYourGram) - 📷 Save your Instagram photos to your own website!
 - [saladepate/saladepate.github.io](https://github.com/saladepate/saladepate.github.io) - 
@@ -634,7 +636,7 @@
 - [jimsmart/grobotstxt](https://github.com/jimsmart/grobotstxt) - grobotstxt is a native Go port of Google's robots.txt parser and matcher library.
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
+- [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
 - [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - 📥 An email client that functions like a kanban board.
 - [go-piv/piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go
@@ -786,7 +788,7 @@
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [cornelk/go-benchmark](https://github.com/cornelk/go-benchmark) - Golang benchmarks used for optimizing code
 - [jeffwillette/graphql-go-pets-example](https://github.com/jeffwillette/graphql-go-pets-example) - An example of neelance/graphql-go, resolves against sqlite
 - [OscarYuen/go-graphql-starter](https://github.com/OscarYuen/go-graphql-starter) - This repository uses graph-gophers/graphql-go to build a starter web application
@@ -965,7 +967,6 @@
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -1046,7 +1047,6 @@
 - [republique-et-canton-de-geneve/chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0) - The Geneva electronic vote system, version 1.
 - [aws/serverless-java-container](https://github.com/aws/serverless-java-container) - A Java wrapper to run Spring, Spring Boot, Jersey, and other apps inside AWS Lambda.
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
-- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 
 ## JavaScript 
@@ -1250,7 +1250,6 @@
 - [yeoman/generator-polymer](https://github.com/yeoman/generator-polymer) - Scaffold out a Polymer project
 - [fullstackreact/react-yelp-clone](https://github.com/fullstackreact/react-yelp-clone) - Tutorial: Build a Yelp-clone in React
 - [AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat) - a minimal, distraction-free chat application
-- [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
 - [sachinchoolur/lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - A modern, electron and nodejs based image viewer for Mac, Windows and Linux.
 - [futurice/pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) - Pepperoni - React Native App Starter Kit for Android and iOS
 - [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
@@ -1260,6 +1259,7 @@
 - [relax/relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
 - [Polymer/polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
 - [googlearchive/code-prettify](https://github.com/googlearchive/code-prettify) - An embeddable script that makes source-code snippets in HTML prettier.
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [flickr/justified-layout](https://github.com/flickr/justified-layout) - Pass in box sizes and get back sizes and coordinates for a justified layout
 - [ptmt/react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
@@ -1960,7 +1960,6 @@
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [vfaronov/httpolice](https://github.com/vfaronov/httpolice) - Validator for HTTP
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [fzliu/style-transfer](https://github.com/fzliu/style-transfer) - An implementation of "A Neural Algorithm of Artistic Style" by L. Gatys, A. Ecker, and M. Bethge. http://arxiv.org/abs/1508.06576.
@@ -2304,7 +2303,6 @@
 - [Cyclenerd/ethereum_nvidia_miner](https://github.com/Cyclenerd/ethereum_nvidia_miner) - 💰 USB flash drive ISO image for Ethereum, Zcash and Monero mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)
 - [nenadg/docker-unity3d](https://github.com/nenadg/docker-unity3d) - Docker container for Unity
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [minimaxir/video-to-gif-osx](https://github.com/minimaxir/video-to-gif-osx) - A set of utilities that allow the user to easily convert video files to very-high-quality GIFs on OS X.
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
@@ -2329,6 +2327,7 @@
 - [tobykurien/NSA_b_gone](https://github.com/tobykurien/NSA_b_gone) - A Linux shell script to improve your privacy online
 - [awalgarg/curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [AsteroidOS/asteroid](https://github.com/AsteroidOS/asteroid) - Build script for AsteroidOS, an open-source operating system for smartwatches
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
@@ -2509,6 +2508,7 @@
 - [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [jhipster/generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - Ionic for JHipster ✨
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
 - [gmostert/ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.
