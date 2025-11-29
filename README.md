@@ -1537,6 +1537,7 @@
 
 ## Python 
 
+- [joalla/discogs_client](https://github.com/joalla/discogs_client) - Continuation of the "Official Python Client for the Discogs API"
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
@@ -1552,7 +1553,7 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
-- [ANSSI-FR/fuzzysully](https://github.com/ANSSI-FR/fuzzysully) - 
+- [ANSSI-FR/fuzzysully](https://github.com/ANSSI-FR/fuzzysully) - Specialized testing tool designed to identify vulnerabilities and bugs in OPC UA (Open Platform Communications Unified Architecture) implementations
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [hadrien/FastSQLA](https://github.com/hadrien/FastSQLA) - Async SQLAlchemy 2.0+ extension for FastAPI with SQLModel support, built-in pagination & more
@@ -2575,7 +2576,7 @@
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 
 ## License
