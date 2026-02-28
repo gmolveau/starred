@@ -329,6 +329,7 @@
 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## algorithm 
 
@@ -878,7 +879,6 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [mikeevmm/sane](https://github.com/mikeevmm/sane) - make, but sane.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
@@ -914,6 +914,7 @@
 
 ## compiler 
 
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
@@ -926,7 +927,7 @@
 - [ShivamSarodia/ShivyC](https://github.com/ShivamSarodia/ShivyC) - C compiler created in Python.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 
 ## computer-science 
 
@@ -2051,7 +2052,6 @@
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [nicholasjackson/cnitch](https://github.com/nicholasjackson/cnitch) - Container Snitch checks running processes under the Docker Engine and alerts if any are found to be running as root
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [elliotchance/dingo](https://github.com/elliotchance/dingo) - 🐺 Easy, fast and type-safe dependency injection for Go.
@@ -2261,7 +2261,7 @@
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 
 ## gui 
 
@@ -2464,7 +2464,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66044, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66192, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -2806,7 +2806,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [KenKundert/nestedtext](https://github.com/KenKundert/nestedtext) - Human readable and writable interchange format for structured data.
-- [davesnx/query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of a similar `jq` in OCaml
+- [davesnx/query-json](https://github.com/davesnx/query-json) - Faster, simpler and more portable implementation of jq-inspired language in OCaml
 - [bevry/cson](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
@@ -3043,7 +3043,7 @@
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66044, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66192, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [awalgarg/curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -3535,6 +3535,7 @@
 
 ## others 
 
+- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
@@ -3591,7 +3592,7 @@
 - [mangoszero/database](https://github.com/mangoszero/database) - The *MangosZero* world database containing creatures, npcs etc.to populate the game world with. Report all issues at https://www.getmangos.eu/bug-tracker/mangos-zero/
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [blupdew/vue-tp](https://github.com/blupdew/vue-tp) - 
-- [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file
+- [mousabaker/poetry-plugin-up](https://github.com/mousabaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file
 - [astral-sh/packse](https://github.com/astral-sh/packse) - Python packaging scenarios
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [asdf-community/asdf-python](https://github.com/asdf-community/asdf-python) - Python plugin for the asdf version manager [maintainer=@danhper]
@@ -3750,7 +3751,7 @@
 - [EvanK/ubuntu-purge-kernels](https://github.com/EvanK/ubuntu-purge-kernels) - Remove all but the running and two installed installed kernels for an Ubuntu server
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [CSS-Tricks/The-Printliminator](https://github.com/CSS-Tricks/The-Printliminator) - 
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [casbin/casbin](https://github.com/casbin/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
@@ -5001,7 +5002,7 @@
 - [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -5837,6 +5838,7 @@
 
 ## ui 
 
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
