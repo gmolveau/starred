@@ -29,7 +29,6 @@
 - [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [JSON](#json)
@@ -106,6 +105,7 @@
 
 ## C 
 
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
@@ -258,7 +258,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66527, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66709, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -1003,10 +1003,6 @@
 - [tylerpearson/lazyYT](https://github.com/tylerpearson/lazyYT) - A jQuery plugin to lazy load those dang Youtube iframe videos.
 - [llambiel/letsecureme](https://github.com/llambiel/letsecureme) - The home of website
 
-## Handlebars 
-
-- [haim-io/cypress-image-diff](https://github.com/haim-io/cypress-image-diff) - Visual regression test with cypress
-
 ## Haskell 
 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -1083,6 +1079,7 @@
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+- [haim-io/cypress-image-diff](https://github.com/haim-io/cypress-image-diff) - Visual regression test with cypress
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -1550,6 +1547,7 @@
 
 ## Python 
 
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
@@ -1666,7 +1664,6 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [csernazs/pytest-httpserver](https://github.com/csernazs/pytest-httpserver) - Http server for pytest to test http clients
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [openstack/python-openstackclient](https://github.com/openstack/python-openstackclient) - Client for OpenStack services. Mirror of code maintained at opendev.org.
@@ -2035,6 +2032,8 @@
 
 ## Rust 
 
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [openagen/zeroclaw](https://github.com/openagen/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
@@ -2381,6 +2380,7 @@
 
 ## Swift 
 
+- [Verifiumapp/Verifium-iOS](https://github.com/Verifiumapp/Verifium-iOS) - Verifium is a simple security and privacy auditor for iOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -2438,7 +2438,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
+- [pagescms/pagescms](https://github.com/pagescms/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -2468,6 +2468,7 @@
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
