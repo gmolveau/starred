@@ -126,7 +126,7 @@
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [ardiri/palmos-maryobros](https://github.com/ardiri/palmos-maryobros) - PalmOS - clone - Maryobros (Mario Bros)
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [dbro/csvquote](https://github.com/dbro/csvquote) - Enables common unix utlities like cut, awk, wc, head to work correctly with csv data containing delimiters and newlines
+- [dbro/csvquote](https://github.com/dbro/csvquote) - Enables common unix utilities like cut, awk, wc, head to work correctly with csv data containing delimiters and newlines
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [crawshaw/sqlite](https://github.com/crawshaw/sqlite) - Go SQLite3 driver
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
@@ -258,7 +258,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66709, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66838, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -364,7 +364,7 @@
 - [elixir-sqlite/ecto_sqlite3](https://github.com/elixir-sqlite/ecto_sqlite3) - An Ecto SQLite3 adapter.
 - [pmarreck/elixir-snippets](https://github.com/pmarreck/elixir-snippets) - Just some WIP in Elixir and related experiments
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [kevin-hanselman/mines](https://github.com/kevin-hanselman/mines) - A minesweeper clone in the terminal, written in Elixir.
@@ -554,7 +554,7 @@
 - [DloomPlz/openprocesses](https://github.com/DloomPlz/openprocesses) - Golang Program getting process with open sockets
 - [genuinetools/bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [zood/oscar](https://github.com/zood/oscar) - Zood Location API server
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
@@ -574,7 +574,6 @@
 - [gobuffalo/plush](https://github.com/gobuffalo/plush) - The powerful template system that Go needs
 - [go-gorp/gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
 - [Redundancy/cdntest](https://github.com/Redundancy/cdntest) - CLI tool for gathering info in order to debug CDN connection issues without requiring end users to install and use complicated tools
-- [karan/fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
@@ -1092,7 +1091,7 @@
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [csev/py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [CSS-Tricks/The-Printliminator](https://github.com/CSS-Tricks/The-Printliminator) - 
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
@@ -2033,6 +2032,7 @@
 
 ## Rust 
 
+- [LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [openagen/zeroclaw](https://github.com/openagen/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
@@ -2048,7 +2048,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
@@ -2064,7 +2064,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -2234,11 +2234,12 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
 - [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
-- [STaRDoGG/JSE-Postgres-Update](https://github.com/STaRDoGG/JSE-Postgres-Update) - Script to update an older Postgres version's data to a newer Postgres version.
+- [jscottelblein/JSE-Postgres-Update](https://github.com/jscottelblein/JSE-Postgres-Update) - Script to update an older Postgres version's data to a newer Postgres version.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -2411,6 +2412,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) - TerraInk: The Cartographic Poster Engine that creates unique and customizable map posters
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
