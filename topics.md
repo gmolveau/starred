@@ -37,6 +37,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -311,7 +312,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [ovh/shai](https://github.com/ovh/shai) - shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love &lt;3
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -356,7 +357,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [pipelinedb/pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [sheshbabu/freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
@@ -703,6 +704,12 @@
 - [clark800/entropass](https://github.com/clark800/entropass) - Maximum-security password manager
 - [KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js) - Gmail JavaScript API
 
+## claude-code 
+
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
+
 ## cli 
 
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -815,7 +822,6 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [jsmith/relar](https://github.com/jsmith/relar) - The Relar cloud music player repository.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
@@ -879,7 +885,7 @@
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [dbro/csvquote](https://github.com/dbro/csvquote) - Enables common unix utlities like cut, awk, wc, head to work correctly with csv data containing delimiters and newlines
+- [dbro/csvquote](https://github.com/dbro/csvquote) - Enables common unix utilities like cut, awk, wc, head to work correctly with csv data containing delimiters and newlines
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -1345,10 +1351,11 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [wollomatic/socket-proxy](https://github.com/wollomatic/socket-proxy) - Secure-by-design and flexible Unix socket proxy. Built in memory-safe Go with zero dependencies, no shell or interpreter required in containers. A modern alternative to tecnativa/docker-socket-proxy a
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [ArchiveBox/abx-pkg](https://github.com/ArchiveBox/abx-pkg) - 📦 Modern strongly typed Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
@@ -1381,7 +1388,7 @@
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [cr0hn/dockerfile-security](https://github.com/cr0hn/dockerfile-security) - Static security checker for Dockerfiles
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
@@ -1530,7 +1537,7 @@
 - [elixir-sqlite/exqlite](https://github.com/elixir-sqlite/exqlite) - An SQLite3 driver for Elixir
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
 - [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [kevin-hanselman/mines](https://github.com/kevin-hanselman/mines) - A minesweeper clone in the terminal, written in Elixir.
@@ -1759,7 +1766,7 @@
 ## git 
 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [julien040/gut](https://github.com/julien040/gut) - A beginner friendly CLI for git
@@ -2388,7 +2395,7 @@
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
@@ -2493,7 +2500,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66709, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66838, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -2712,7 +2719,7 @@
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2905,7 +2912,7 @@
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [krisnova/naml](https://github.com/krisnova/naml) - Convert Kubernetes YAML to Golang
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
@@ -2999,7 +3006,7 @@
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [Seeker04/plwm](https://github.com/Seeker04/plwm) - An X11 window manager written in Prolog
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -3074,7 +3081,7 @@
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66709, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66838, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [awalgarg/curl-tap-sh](https://github.com/awalgarg/curl-tap-sh) - tap curl in your editor before it gets to sh it
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -3097,7 +3104,7 @@
 
 ## low-code 
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 
@@ -3142,7 +3149,7 @@
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -3255,7 +3262,7 @@
 
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -3410,7 +3417,7 @@
 
 ## no-code 
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## node 
@@ -3426,7 +3433,7 @@
 
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
@@ -3434,7 +3441,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -3571,6 +3578,9 @@
 
 ## others 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
+- [LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [Verifiumapp/Verifium-iOS](https://github.com/Verifiumapp/Verifium-iOS) - Verifium is a simple security and privacy auditor for iOS.
@@ -3588,7 +3598,7 @@
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [joalla/discogs_client](https://github.com/joalla/discogs_client) - Continuation of the "Official Python Client for the Discogs API"
 - [HydroniumLabs/h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
-- [STaRDoGG/JSE-Postgres-Update](https://github.com/STaRDoGG/JSE-Postgres-Update) - Script to update an older Postgres version's data to a newer Postgres version.
+- [jscottelblein/JSE-Postgres-Update](https://github.com/jscottelblein/JSE-Postgres-Update) - Script to update an older Postgres version's data to a newer Postgres version.
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library
 - [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example) - An example of using uv in Docker images
 - [rsc/gophershirt](https://github.com/rsc/gophershirt) - Gopher Hawaiian Shirts
@@ -3835,7 +3845,7 @@
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [DloomPlz/openprocesses](https://github.com/DloomPlz/openprocesses) - Golang Program getting process with open sockets
 - [wking/rss2email](https://github.com/wking/rss2email) - open-source tool for Windows, Mac OS and UNIX for getting news from RSS feeds in email
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [Farael49/spring-kafka-101](https://github.com/Farael49/spring-kafka-101) - A basic example using spring & kafka, simple producer/consumer use case
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [zood/oscar](https://github.com/zood/oscar) - Zood Location API server
@@ -3862,7 +3872,6 @@
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [go-gorp/gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
-- [karan/fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
@@ -4459,6 +4468,7 @@
 ## package-manager 
 
 - [stvnksslr/uv-migrator](https://github.com/stvnksslr/uv-migrator) - tool for migrating to the uv package manager
+- [ArchiveBox/abx-pkg](https://github.com/ArchiveBox/abx-pkg) - 📦 Modern strongly typed Python library for managing system dependencies with package managers like apt, brew, pip, npm, etc.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
@@ -4555,7 +4565,7 @@
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [steebchen/prisma-client-go](https://github.com/steebchen/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [pipelinedb/pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -4595,7 +4605,7 @@
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -5073,7 +5083,7 @@
 - [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack) - Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [CannerCMS/cannercms](https://github.com/CannerCMS/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
@@ -5150,7 +5160,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
@@ -5271,7 +5281,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [wollomatic/socket-proxy](https://github.com/wollomatic/socket-proxy) - Secure-by-design and flexible Unix socket proxy. Built in memory-safe Go with zero dependencies, no shell or interpreter required in containers. A modern alternative to tecnativa/docker-socket-proxy a
 - [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go.
@@ -5390,7 +5400,7 @@
 
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -5418,11 +5428,12 @@
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -5628,7 +5639,7 @@
 - [projectwallace/css-analyzer](https://github.com/projectwallace/css-analyzer) - Analytics for CSS
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 
@@ -5678,7 +5689,7 @@
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [jsmith/relar](https://github.com/jsmith/relar) - The Relar cloud music player repository.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 ## telegram 
 
@@ -5831,7 +5842,7 @@
 
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -5846,7 +5857,7 @@
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
@@ -6070,7 +6081,6 @@
 - [xy2z/PineDocs](https://github.com/xy2z/PineDocs) - A fast and lightweight site for viewing files
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [schollz/hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -6080,7 +6090,7 @@
 ## windows 
 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
