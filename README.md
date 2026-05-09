@@ -31,7 +31,6 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -260,7 +259,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67235, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67451, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -623,6 +622,7 @@
 - [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample
 - [naughtygopher/goapp](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service
 - [stapelberg/costream](https://github.com/stapelberg/costream) - a co-programming / pair-programming twitch stream setup using H264/OPUS RTP (like WebRTC does)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [benjojo/gophervista](https://github.com/benjojo/gophervista) - It's like AltaVista, but for RFC 1436 Gopher sites
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -732,7 +732,7 @@
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
-- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern host manager
+- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern, cross-platform machine manager
 - [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
 - [jackdoe/baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
@@ -1018,10 +1018,6 @@
 
 - [motion-twin/WebGamesArchives](https://github.com/motion-twin/WebGamesArchives) - 
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -1087,7 +1083,6 @@
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [facundoolano/socketio-auth](https://github.com/facundoolano/socketio-auth) - Authentication module for socket.io
 - [socketio/chat-example](https://github.com/socketio/chat-example) - Basic chat example with Socket.IO
@@ -1333,6 +1328,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
@@ -1427,7 +1423,7 @@
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [slowernews/hamster-system](https://github.com/slowernews/hamster-system) - Ultra-simple framework to organize your life.
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [photonlines/Intuitive-Guide-to-Maxwells-Equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations) - An intuitive and visual guide to understanding Maxwell's equations.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
@@ -1570,7 +1566,7 @@
 - [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  | This repo is not the Qodo free tier! Try Qodo free tier, click the link
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.
 - [frostming/marko](https://github.com/frostming/marko) - A markdown parser with high extensibility.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -1683,6 +1679,7 @@
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -1715,7 +1712,7 @@
 - [pyeve/cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [miguelgrinberg/Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
-- [ethereum/web3.py](https://github.com/ethereum/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
+- [ApeWorX/web3.py](https://github.com/ApeWorX/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [miguelgrinberg/promisio](https://github.com/miguelgrinberg/promisio) - JavaScript-style async programming for Python.
 - [Zeecka/AperiSolve](https://github.com/Zeecka/AperiSolve) - Steganalysis web platform
@@ -1747,6 +1744,7 @@
 - [py2exe/py2exe](https://github.com/py2exe/py2exe) - Create standalone Windows programs from Python code
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [python-injector/injector](https://github.com/python-injector/injector) - Python dependency injection framework, inspired by Guice
+- [trou/arteget](https://github.com/trou/arteget) - simple ruby script that dumps television programs from the "+7" site of Arte.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [sdispater/orator](https://github.com/sdispater/orator) - The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
 - [gvanrossum/patma](https://github.com/gvanrossum/patma) - Pattern Matching
@@ -1791,7 +1789,6 @@
 - [zacjszewczyk/swig](https://github.com/zacjszewczyk/swig) - A truly micro Python web framework
 - [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta) - 
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [GerritCodeReview/git-repo](https://github.com/GerritCodeReview/git-repo) - repo - The Multiple Git Repository Tool - (mirror of https://gerrit.googlesource.com/git-repo)
 - [BBVA/apicheck](https://github.com/BBVA/apicheck) - The DevSecOps toolset for REST APIs
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
@@ -1978,7 +1975,7 @@
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [secretsquirrel/the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors
 - [xdavidhu/mitmAP](https://github.com/xdavidhu/mitmAP) - 📡 A python program to create a fake AP and sniff data.
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
@@ -2020,7 +2017,6 @@
 - [neillturner/kitchen-ansible](https://github.com/neillturner/kitchen-ansible) - Ansible Provisioner for Test Kitchen
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
-- [trou/arteget](https://github.com/trou/arteget) - simple ruby script that dumps television programs from the "+7" site of Arte.
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 - [dev-sec/cis-docker-benchmark](https://github.com/dev-sec/cis-docker-benchmark) - CIS Docker Benchmark - InSpec Profile
 - [dev-sec/cis-kubernetes-benchmark](https://github.com/dev-sec/cis-kubernetes-benchmark) - CIS Kubernetes Benchmark - InSpec Profile
@@ -2428,7 +2424,7 @@
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) - Terraink: The Cartographic Poster Engine that creates unique and customizable map posters
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
