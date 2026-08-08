@@ -266,7 +266,7 @@
 - [NathanCastle/BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [google/omaha](https://github.com/google/omaha) - Google Update for Windows
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68974, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [modzero/fix-windows-privacy](https://github.com/modzero/fix-windows-privacy) - Fix Windows 10 Privacy
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -351,7 +351,6 @@
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [lightrun-platform/koolkits](https://github.com/lightrun-platform/koolkits) - 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.
-- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
@@ -396,7 +395,7 @@
 ## Go 
 
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
@@ -443,7 +442,7 @@
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
+- [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [julien040/gut](https://github.com/julien040/gut) - A beginner friendly CLI for git
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -1906,7 +1905,7 @@
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 - [pallets-eco/flask-security-3.0](https://github.com/pallets-eco/flask-security-3.0) - Quick and simple security for Flask applications
 - [KonstantinSchubert/zero](https://github.com/KonstantinSchubert/zero) - Local file system transparently swapping to the cloud
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [mubix/osx-wificleaner](https://github.com/mubix/osx-wificleaner) - Cleans out "open" wireless connections from OSX machine
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
@@ -1949,7 +1948,7 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [m1ghtym0/magic_gadget_finder](https://github.com/m1ghtym0/magic_gadget_finder) - Unravels any libcs magic for your ret2libc exploit.
-- [jonluca/Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration tool
+- [jonluca/anubis](https://github.com/jonluca/anubis) - Subdomain enumeration tool
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [brightmart/text_classification](https://github.com/brightmart/text_classification) - all kinds of text classification models and more with deep learning
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -2048,6 +2047,7 @@
 
 ## Rust 
 
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -2256,6 +2256,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [gmolveau/dotfiles](https://github.com/gmolveau/dotfiles) - my dotfiles
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review.
@@ -2284,6 +2285,7 @@
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [huazhihao/kubespy](https://github.com/huazhihao/kubespy) - pod debugging tool for kubernetes clusters with docker runtimes
+- [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting.
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
@@ -2441,6 +2443,8 @@
 
 ## TypeScript 
 
+- [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
@@ -2497,7 +2501,7 @@
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
 - [retrohacker/template](https://github.com/retrohacker/template) - A simple framework for webapps
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
@@ -2588,7 +2592,7 @@
 - [mariuszfoltak/angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2
 - [gmostert/ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.
 - [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
-- [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
+- [Shopify/polaris-react-archive](https://github.com/Shopify/polaris-react-archive) - Shopify's Polaris Design System - React implementation (Deprecated)
 - [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [joshuamorony/permatimer](https://github.com/joshuamorony/permatimer) - 
